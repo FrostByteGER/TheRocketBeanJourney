@@ -7,7 +7,8 @@ A game where you can play as a people killing humanoid wallnut? Sounds ridiculou
 - Nutsy
 - Nutter
 - Peanut
-- Hazel
+- Hazel  
+
 #### Last Names:
 - Nutson
 - Nutterson
