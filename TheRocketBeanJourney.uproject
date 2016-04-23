@@ -3,16 +3,6 @@
 	"EngineAssociation": "4.11",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "TheRocketBeanJourney",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "Paper2D",
