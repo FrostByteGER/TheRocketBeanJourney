@@ -1,6 +1,17 @@
 # Hitnut - No Traces Of Nuts
 ## Description
-A game where you can play as a people killing humanoid wallnut? Sounds ridiculous? For this little wallnut guy it's damn serious! [Enter complete story here later]
+A game where you can play as a people killing humanoid wallnut? Sounds ridiculous? For this little wallnut guy [Enter Name here] it's damn serious! [Enter complete story here later]
+
+>! ### Name ideas:
+>! #### First Names:
+>! - Nutsy
+>! - Nutter
+>! - Peanut
+>! - Hazel
+>! #### Last Names:
+>! - Nutson
+>! - Nutterson
+>! - Wallnutter
 
 ## Features
 - Different Levels (planned)
