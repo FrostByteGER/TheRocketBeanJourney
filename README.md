@@ -1,8 +1,9 @@
 # Hitnut - No Traces Of Nuts
 ## Description
-A game where you can play as a people killing humanoid wallnut? Sounds ridiculous? For this little wallnut guy [Enter Name here] it's damn serious! 
-
-It's the year 2020, everyone got allergic to nuts and some mysterious murder happen in Nutburg City. Only one apartment isn't aware of all this nutty deaths.
+A game where you can play as a people killing humanoid wallnut? Sounds ridiculous?  
+For this little wallnut guy [Enter Name here] it's damn serious!  
+  
+It's the year 2020, everyone got allergic to nuts and some mysterious murder happen in Nutburg City. Only one apartment isn't aware of all this nutty deaths.  
 Your goal is to make them realise what is going on but without getting noticed!
 
 ## Features
@@ -17,12 +18,12 @@ Your goal is to make them realise what is going on but without getting noticed!
 - [The Simpsons](https://www.youtube.com/watch?v=qwHZbnl9grI) (Just for fun)
 
 ## Team Members
-| Name                                | Role            |
-|-------------------------------------|-----------------|
-| Marvin Uwe "Buson94" Marken         | Game Design     |
-| Kevin "FrostByte/TrinityGER" Kügler | Coding          |
-| Steven "Sammy8806" Tappert          | Coding          |
-| Kevin "MrMiste" Hewing              | Graphics, Sound |
+| First Name | Last Name | Alias                    | Role            |
+|------------|-----------|--------------------------|-----------------|
+| Marvin Uwe | Marken    | Buson94                  | Game Design     |
+| Kevin      | Kügler    | FrostByteGER, TrinityGER | Coding          |
+| Steven     | Tappert   | Sammy8806                | Coding          |
+| Kevin      | Hewing    | MrMiste                  | Graphics, Sound |
 
-### Winning Agreement(German)
+### Winning Agreement (German)
 *Falls wir gewinnen, würden wir sehr gerne an der Führung bei Daedalic in Hamburg teilnehmen, da, bis auf Kevin Hewing, alle in/um Bremen wohnen.*
