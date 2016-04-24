@@ -5,6 +5,7 @@ For the little walnut guy *Peanut Walnutson* it's damn serious!
   
 It's the year 2020, everyone got allergic to nuts and some mysterious murder happen in Nutburg City. Only one apartment isn't aware of all this nutty deaths.  
 Your goal is to make them realise what is going on but without getting noticed!
+The residents *Simon Krätschmer*, *Daniel "Budi" Budiman*, *Etienne Gardé*, *Nils Bomhoff* and *Ian Budiman* live in a small studio in *Elmsnutter, Nutburg City* and they somehow managed to ignore the fact that everyone got allergic to nuts.
 
 ## Features
 - Killing targets in different nutty ways
