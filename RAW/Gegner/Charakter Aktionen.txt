@@ -1,0 +1,23 @@
+Ian:	Kickern
+	Bier trinken
+	Torkeln
+	Reden
+
+Budi:	Kochen
+	Essen
+	Zocken
+	Reden
+
+Simon:	Zocken
+	Schlafen
+	Grillen
+	Reden
+
+Etienne:Arbeiten	
+	Zocken
+	Reden
+
+Nils:	Kickern
+	Reden
+	Hände Waschen
+	Hände trocknen
